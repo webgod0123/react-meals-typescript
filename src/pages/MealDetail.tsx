@@ -52,6 +52,7 @@ const Meal = () => {
               <div className="detail-body-content">
                 <iframe
                   className="detail-video"
+                  height={'500'}
                   src={meal.strYoutube.replace("watch?v=", "embed/")}
                 ></iframe>
                 <pre className="detail-description">{meal.strInstructions}</pre>
