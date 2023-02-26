@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'DM Serif';
+    src: url('../fonts/DM_Serif_Display/DMSerifDisplay-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Fredoka';
+    src: url('../fonts/Fredoka/Fredoka-VariableFont_wdth\,wght.ttf');
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('../fonts/Raleway/Raleway-VariableFont_wght.ttf');
+}
